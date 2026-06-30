@@ -1,0 +1,1247 @@
+{
+  "versie": 1,
+  "gegenereerd": "2026-06-30 05:58:58",
+  "config_fp": "60d4fd357a675748412f8792f185152834e03086375821e8547c490e0c3ec438",
+  "bestanden": {
+    "Norway Open April 2014.txt": {
+      "checksum": "2ee051a123c3a0ca770265777c9dd0f9fc5447f13d02010806fe53cf4213ba57",
+      "datum": "2014-04-01"
+    },
+    "Irish Open September 2015.txt": {
+      "checksum": "129a21b816907df4a3ba32a3e0badb14ed2fe8460d626847ebecd819d077cee0",
+      "datum": "2015-09-01"
+    },
+    "WQC Juni 2015.txt": {
+      "checksum": "b62a3b5a082819b05076866ac5acda52412b0e7e3be6de026841117d9bf41349",
+      "datum": "2015-06-01"
+    },
+    "Norway Open Maart 2016.txt": {
+      "checksum": "ba6f85f2512197582bb1afce28c993e60a9865498d2678d384562d249df252c5",
+      "datum": "2016-03-01"
+    },
+    "WQC Juni 2016.txt": {
+      "checksum": "b62a3b5a082819b05076866ac5acda52412b0e7e3be6de026841117d9bf41349",
+      "datum": "2016-06-01"
+    },
+    "Irish Open September 2017.txt": {
+      "checksum": "e381a5716888726f9b0773ced312c5b3f119755ced0897990aa2e0b00a9f3e3a",
+      "datum": "2017-09-01"
+    },
+    "Norway Open Maart 2017.txt": {
+      "checksum": "4c0d15d0fd9fcf1686f2fba8857db1223223f99ccf04e6d7e764664742ea550f",
+      "datum": "2017-03-01"
+    },
+    "Squizzed April 2017.txt": {
+      "checksum": "d2b77b1229320f7190db38fa1a54929c0cdbe16fa398c7b9929016586a52f806",
+      "datum": "2017-04-01"
+    },
+    "Squizzed Augustus 2017.txt": {
+      "checksum": "dad1db5a0383d662ce2c5060581f160e7d3457d626595aeb0d9a892118aa6858",
+      "datum": "2017-08-01"
+    },
+    "Squizzed December 2017.txt": {
+      "checksum": "d58883638f253303853054eed4161735d3c40471acbf7a03335be1c624e3bfa9",
+      "datum": "2017-12-01"
+    },
+    "Squizzed Februari 2017.txt": {
+      "checksum": "acb6ee7daa3ef9793a5df10efda759a2782004e7e975bed6789b8c97f48da47e",
+      "datum": "2017-02-01"
+    },
+    "Squizzed Juli 2017.txt": {
+      "checksum": "75158d2e8d7c5f186644c7eaa3ef71c05a5377407cf7afa673b9db80d55e0c6b",
+      "datum": "2017-07-01"
+    },
+    "Squizzed Juni 2017.txt": {
+      "checksum": "2403de3d59707975c3e9dd0b8930f27bc7c7bec6a7dc287b72c14e048ed08086",
+      "datum": "2017-06-01"
+    },
+    "Squizzed Maart 2017.txt": {
+      "checksum": "1c5c4e76cbc6abba4046cc63107bb94fb20334308a81c7004cedd78809172327",
+      "datum": "2017-03-01"
+    },
+    "Squizzed Mei 2017.txt": {
+      "checksum": "90627cb5fb6039167328937b99a86ae6c3c064f57390409e9744bdb791b19a10",
+      "datum": "2017-05-01"
+    },
+    "Squizzed November 2017.txt": {
+      "checksum": "b65e2d9949d12dd40285dd042bbf92d17969cb42194648e4a42c8809d8eb54b1",
+      "datum": "2017-11-01"
+    },
+    "Squizzed Oktober 2017.txt": {
+      "checksum": "13ee07d851a369eecdeecbc67d6d3487b54c66e1079119cfa4dcdd07e78263c2",
+      "datum": "2017-10-01"
+    },
+    "Squizzed September 2017.txt": {
+      "checksum": "488517cc662bb253689af33b3857fe55e99eb3cae8676b2dadb13c4620b607ac",
+      "datum": "2017-09-01"
+    },
+    "WQC Juni 2017.txt": {
+      "checksum": "f9c462fb755010aca2290f4451716cabb8c06549b1e6f9e57122e0c343278151",
+      "datum": "2017-06-01"
+    },
+    "Austrian Open Oktober 2018.txt": {
+      "checksum": "b5af045d080c07541acaa22707d5b4b2f4c9df918af8d43ef14f8bcbf3b2aa78",
+      "datum": "2018-10-01"
+    },
+    "Croatian Open Oktober 2018.txt": {
+      "checksum": "ec20be5ca7b5c3e56f81fafaea0d00379b724616ace853e20b681b6019768bb5",
+      "datum": "2018-10-01"
+    },
+    "Hot100 April 2018.txt": {
+      "checksum": "4b7913d7fae02a7076de702a6453d3a5551f4cdca5583bde403af553347f4af6",
+      "datum": "2018-04-01"
+    },
+    "Hot100 Augustus 2018.txt": {
+      "checksum": "15e6e297cde3e7ff20f7c2e0c1d33d305bef65b31e792d8252a30a576f83e807",
+      "datum": "2018-08-01"
+    },
+    "Hot100 December 2018.txt": {
+      "checksum": "fe5ff4cfbde161c6d564887c26cdca2a0dc8e9bdfb357872c848227747f81232",
+      "datum": "2018-12-01"
+    },
+    "Hot100 Juli 2018.txt": {
+      "checksum": "3229d682808ebb67acbc1eb8d0b3c9fff08eb2326420db8d4fef6b62e1117bdb",
+      "datum": "2018-07-01"
+    },
+    "Hot100 Maart 2018.txt": {
+      "checksum": "c2656267cdd641341561a123990e4efae8a55f69cf1df19ac3c07273cdede72f",
+      "datum": "2018-03-01"
+    },
+    "Hot100 Mei 2018.txt": {
+      "checksum": "5bdc767751ffcf89573984c2e497fc76f8509d22357bbe80d38842ad7b38728b",
+      "datum": "2018-05-01"
+    },
+    "Hot100 November 2018.txt": {
+      "checksum": "3ffd6394b679787010e579bca5d224f44e32b27e142cdbc7169160121b5963d1",
+      "datum": "2018-11-01"
+    },
+    "Hot100 Oktober 2018.txt": {
+      "checksum": "de5698f884860e477c32ec3cb973bd26ae08b6afeaa63fb84cd661381f5bf167",
+      "datum": "2018-10-01"
+    },
+    "Hot100 September 2018.txt": {
+      "checksum": "572bbf4dfe33237e4f014ffd52d30ee5eda5e565860d5dd4f8c7b91deffe4bac",
+      "datum": "2018-09-01"
+    },
+    "Irish Open September 2018.txt": {
+      "checksum": "ea67faa831e4f6783320d49b89f290d613908b48eff76d7e0b185fc1aa65afe1",
+      "datum": "2018-09-01"
+    },
+    "Norway Open April 2018.txt": {
+      "checksum": "1cf7b00874e6c9670b12c885d2203e0f8b64f033f2f8ea01ca3e64da5b34bda7",
+      "datum": "2018-04-01"
+    },
+    "Squizzed April 2018.txt": {
+      "checksum": "ce31af1dd08f2b2b29725627c568dcf30e89ebbfa5fcff13d10c89262e723c96",
+      "datum": "2018-04-01"
+    },
+    "Squizzed Augustus 2018.txt": {
+      "checksum": "287d0211c4d9876377f7e17f78e3986bf121e5969b7a65cf338b821f2a0a8a09",
+      "datum": "2018-08-01"
+    },
+    "Squizzed December 2018.txt": {
+      "checksum": "1d8ee6537376ab9b15a08ef6d2609e4bca1559e39684365c90328ecc32b9628f",
+      "datum": "2018-12-01"
+    },
+    "Squizzed Februari 2018.txt": {
+      "checksum": "b94a10a645a442ff6591e0385086fd3058e09c4a0231e55922632fcc1281b1ea",
+      "datum": "2018-02-01"
+    },
+    "Squizzed Januari 2018.txt": {
+      "checksum": "715de76fb3692fb4b876aab878932b1f8b72fa20f40f661ec7492a2f8349b50e",
+      "datum": "2018-01-01"
+    },
+    "Squizzed Juli 2018.txt": {
+      "checksum": "79198e92610f5252b1ebc81a1ef428b6fda90b148d0682c397af0426a94f8a6a",
+      "datum": "2018-07-01"
+    },
+    "Squizzed Juni 2018.txt": {
+      "checksum": "6b3e87cd87f84839af7753ec4fd3c8a4e14239740d7a87ed57093ea07582b569",
+      "datum": "2018-06-01"
+    },
+    "Squizzed Maart 2018.txt": {
+      "checksum": "af7e2a5000d8f9ad321e45bf81bb218549e11b40911957ea8b03eea51b450244",
+      "datum": "2018-03-01"
+    },
+    "Squizzed Mei 2018.txt": {
+      "checksum": "d7c4e112da32e252999a4bd5c00590a7a126f95007abe1f965c7e323290212e7",
+      "datum": "2018-05-01"
+    },
+    "Squizzed November 2018.txt": {
+      "checksum": "5fcee56b4ac244cc0db6362a4818ab31331b8856aff349e8c83828490c6c60cd",
+      "datum": "2018-11-01"
+    },
+    "Squizzed Oktober 2018.txt": {
+      "checksum": "b31dc7532c0c7b05aea1066825c95357680942d50fba8bbfa7b07b55f59caf53",
+      "datum": "2018-10-01"
+    },
+    "Squizzed September 2018.txt": {
+      "checksum": "3d5bfcb08538af531bad5d02a0cbcef555e7d06b725617530db315a66b25eab3",
+      "datum": "2018-09-01"
+    },
+    "WQC Juni 2018.txt": {
+      "checksum": "76627209a3ce0e5d5d3defc2ca8d5eaefc028a4402d5c483340d71d578010378",
+      "datum": "2018-06-01"
+    },
+    "Austrian Open Oktober 2019.txt": {
+      "checksum": "b27381c1526d25f08295be5267e52991eda3e22153b570329b807148b6b107c8",
+      "datum": "2019-10-01"
+    },
+    "Croatian Open Oktober 2019.txt": {
+      "checksum": "af59329f1d2b1b1013d87563b25b97403ef07eab17da87b4793dbf49b608ee21",
+      "datum": "2019-10-01"
+    },
+    "Hot100 April 2019.txt": {
+      "checksum": "a93645dafb90c57f1b2d752a6bdf3c9c56d60d36f68c6b251a05a29c1fb20220",
+      "datum": "2019-04-01"
+    },
+    "Hot100 Augustus 2019.txt": {
+      "checksum": "60efd022d46de17e44c9ba557b4e43591d7104a4bf7aeb7666e9f5e7a2b68446",
+      "datum": "2019-08-01"
+    },
+    "Hot100 December 2019.txt": {
+      "checksum": "05361d5f34f02bbe4eb3a80aceb30b62888d8fec12689bcf529683d0a80e8db9",
+      "datum": "2019-12-01"
+    },
+    "Hot100 Februari 2019.txt": {
+      "checksum": "2e1e94d0c4fcb1d9c505fa11378d6c2a1a4e2f6f05f9a30006636bfc78045ca4",
+      "datum": "2019-02-01"
+    },
+    "Hot100 Januari 2019.txt": {
+      "checksum": "80249f3b5ae6b221b9d7be83b174263b0fe8e5fefd3a9fd1e33a7e78a21904d5",
+      "datum": "2019-01-01"
+    },
+    "Hot100 Juli 2019.txt": {
+      "checksum": "6de9d7b1d54e35076685baf95fde4cb9b4d60dd30040e7ed416847c5572f7324",
+      "datum": "2019-07-01"
+    },
+    "Hot100 Maart 2019.txt": {
+      "checksum": "096716b880df4a3a3dc43a065557b410fa5fc05791e673d1c2024bab1c7b69b9",
+      "datum": "2019-03-01"
+    },
+    "Hot100 Mei 2019.txt": {
+      "checksum": "ed0cf4a2129d184eb2a25f4a771142e986ce56550a3768b3e808b1c5bbb72053",
+      "datum": "2019-05-01"
+    },
+    "Hot100 November 2019.txt": {
+      "checksum": "a660f663b20dab13b45f1c1a281765138a6741c79499112ecd99a63497a5c17a",
+      "datum": "2019-11-01"
+    },
+    "Hot100 Oktober 2019.txt": {
+      "checksum": "b234450b51a6a87c544257318e1861274c82d6a94d21728b419d13c9138daf56",
+      "datum": "2019-10-01"
+    },
+    "Hot100 September 2019.txt": {
+      "checksum": "f372478f3a837c217a79ca65a067874290724e5623653c3f863dbf02d6e78452",
+      "datum": "2019-09-01"
+    },
+    "Irish Open September 2019.txt": {
+      "checksum": "e5dd1226e74c401efdb5c6548edca493b378f5c43ff79c2ecc30936f03205e7f",
+      "datum": "2019-09-01"
+    },
+    "Squizzed April 2019.txt": {
+      "checksum": "8fc07efa1ad847eda191abfc6b734c632536e2363532cce3ed14f192c3750538",
+      "datum": "2019-04-01"
+    },
+    "Squizzed Augustus 2019.txt": {
+      "checksum": "197468047d7f9219897ef68466a984e5bba8474c1f766d5a78d3493eb1b70a6d",
+      "datum": "2019-08-01"
+    },
+    "Squizzed December 2019.txt": {
+      "checksum": "9dd228cfeeb56bcec323da28a2bac714b96df14abd726d2c00618f5328114581",
+      "datum": "2019-12-01"
+    },
+    "Squizzed Februari 2019.txt": {
+      "checksum": "23942fd2e71b2889f7602853844d641573419627f86772b9fe81d42f7c00bc0d",
+      "datum": "2019-02-01"
+    },
+    "Squizzed Januari 2019.txt": {
+      "checksum": "869b0dd679b9a5c8bf76190a6f4908db821c1ba7f10a20df649790bb78be8323",
+      "datum": "2019-01-01"
+    },
+    "Squizzed Juli 2019.txt": {
+      "checksum": "25af7a0f4897efe73e07bd8df32b8717f3f5bfc951c1b36bf9236f450ce83501",
+      "datum": "2019-07-01"
+    },
+    "Squizzed Juni 2019.txt": {
+      "checksum": "2673bcd417f6d00bc309510c8451cc24553fc268769bbabbe975c7224078e2b6",
+      "datum": "2019-06-01"
+    },
+    "Squizzed Maart 2019.txt": {
+      "checksum": "79c8fdae4f728ba4344ceac0220b5314ea2bcd394729bf589ff0e8df8e94157a",
+      "datum": "2019-03-01"
+    },
+    "Squizzed Mei 2019.txt": {
+      "checksum": "b50c26627b89401b34c8482183c39af41adb3c0126b56c45d6b6d3a731d055c9",
+      "datum": "2019-05-01"
+    },
+    "Squizzed November 2019.txt": {
+      "checksum": "fcd7f4b4aa751b77fdc07eb19a77f5b88ea5e938323911aa341bdfcef72ba1df",
+      "datum": "2019-11-01"
+    },
+    "Squizzed Oktober 2019.txt": {
+      "checksum": "0d7c970594e6e1afac0e9478a7c1a4aee0bbc8643c763334ef34efa6f9d02460",
+      "datum": "2019-10-01"
+    },
+    "Squizzed September 2019.txt": {
+      "checksum": "551e8c3ee1d4f25b65d2e3af6637a9bbccaf49f9bc24412796584ef49258659d",
+      "datum": "2019-09-01"
+    },
+    "WQC Juni 2019.txt": {
+      "checksum": "23b206a398534cdef143eb2f7b27cbfe86c4337271610bb75d68b16f08c77ddb",
+      "datum": "2019-06-01"
+    },
+    "Croatian Open Oktober 2020.txt": {
+      "checksum": "a0b8625ba6a1f5d43cb7f13aaa94fab374ec46464e46804797769bd182539ddc",
+      "datum": "2020-10-01"
+    },
+    "Hot100 Augustus 2020.txt": {
+      "checksum": "a23671bd34763cb8d4cae211066a598a295b2a1f670a0190bd28003a1ffd4ed0",
+      "datum": "2020-08-01"
+    },
+    "Hot100 Februari 2020.txt": {
+      "checksum": "b1e27a4d8402c336fd94b56daa02835bc78cf4ecb5b8044cd5be86edd03622b7",
+      "datum": "2020-02-01"
+    },
+    "Hot100 Januari 2020.txt": {
+      "checksum": "06f5e610873fbbceae3d3aee96850a94d20006a965282362232d9ca4b2f53a99",
+      "datum": "2020-01-01"
+    },
+    "Hot100 Juli 2020.txt": {
+      "checksum": "7cff0118499726c3a1fef86499dde6bf4f0c49fbd1643ebc0f62f210f3b404c6",
+      "datum": "2020-07-01"
+    },
+    "Hot100 Juni 2020.txt": {
+      "checksum": "1238d40371e014a1f6cfdc6fbb5e1017af09f07e50098d38a186ebdf682bc856",
+      "datum": "2020-06-01"
+    },
+    "Hot100 Maart 2020.txt": {
+      "checksum": "234dfecd41d44cb4950f2e7ae76efd6b2d3a520e69743625f7b77ecad9d6ea51",
+      "datum": "2020-03-01"
+    },
+    "Hot100 Mei 2020.txt": {
+      "checksum": "b7cb4a186a8e4e88008118761377919937ad58aba2fd506570c869b745723ca5",
+      "datum": "2020-05-01"
+    },
+    "Hot100 November 2020.txt": {
+      "checksum": "411c0448e4c050519608f63dd7004741fc58d11038d8355e613c3aa928b7c0ce",
+      "datum": "2020-11-01"
+    },
+    "Hot100 Oktober 2020.txt": {
+      "checksum": "6c6b5300d81bee5181fb7dc2f18575b6623c1f0cc0abbd039fc1e16fc4783e77",
+      "datum": "2020-10-01"
+    },
+    "Hot100 September 2020.txt": {
+      "checksum": "0a37edc49c9dfea2818beb65ab1eda9ac3258a5f5f54cbce01e668ce55f8970c",
+      "datum": "2020-09-01"
+    },
+    "Squizzed Augustus 2020.txt": {
+      "checksum": "d30d99c4d9fd8cb0d62c09cf43f360a64af85b4ba3284e260282b6cdec894b2d",
+      "datum": "2020-08-01"
+    },
+    "Squizzed December 2020.txt": {
+      "checksum": "746aaacf70ac3233162784037d9e802c189caf6c5a72a6362221b4f9edf15900",
+      "datum": "2020-12-01"
+    },
+    "Squizzed Februari 2020.txt": {
+      "checksum": "d1a958e3c3fb64e885b8c4bfd44ed577362ad400f516e85660351420f90c533c",
+      "datum": "2020-02-01"
+    },
+    "Squizzed Januari 2020.txt": {
+      "checksum": "36a5d65a5e7e7f05f152572a4ff9239459e305b6d16614a02696361d3f3d863c",
+      "datum": "2020-01-01"
+    },
+    "Squizzed Juli 2020.txt": {
+      "checksum": "70b04faece9acbf6f5aae6243b0dcab8fb87fb894dd4ec7ce25d823929ac3714",
+      "datum": "2020-07-01"
+    },
+    "Squizzed Juni 2020.txt": {
+      "checksum": "af01512bf607450fff0a87f637fd0da33f57f45640cbaba3e19ebc0a42b6e510",
+      "datum": "2020-06-01"
+    },
+    "Squizzed November 2020.txt": {
+      "checksum": "e83614b038e5b6dbb60423ac468ea6e8e97455662b8a341a7f0983473e697c8c",
+      "datum": "2020-11-01"
+    },
+    "Squizzed Oktober 2020.txt": {
+      "checksum": "3e61480e36490fecd9e21de82d6f0c1a4e39d963c7de8d2b6d040a3003365c4d",
+      "datum": "2020-10-01"
+    },
+    "Squizzed September 2020.txt": {
+      "checksum": "7bd8f9249617417275fc6e722d88c0b0a0cbf1636064f7f46ff00a37f7a24178",
+      "datum": "2020-09-01"
+    },
+    "WQC December 2020.txt": {
+      "checksum": "d52c8633926882610ccb114f2491ef6f61254f200e6d624eeb78d253c75a93b7",
+      "datum": "2020-12-01"
+    },
+    "Austrian Open Oktober 2021.txt": {
+      "checksum": "b27381c1526d25f08295be5267e52991eda3e22153b570329b807148b6b107c8",
+      "datum": "2021-10-01"
+    },
+    "Croatian Open November 2021.txt": {
+      "checksum": "36e0d6d4f9d7e4909d975d0620d74a553a3b02f63b61f2bfb5ed693ec84eef30",
+      "datum": "2021-11-01"
+    },
+    "Hot100 April 2021.txt": {
+      "checksum": "c133af9a401bd5b8f32520559d2b8ce78390acb39e6b579e594480c38aebeeec",
+      "datum": "2021-04-01"
+    },
+    "Hot100 December 2021.txt": {
+      "checksum": "9ff491a65344ca2e753bd06f90c8664752fdc1bc883992b4f3487eaee10f27fb",
+      "datum": "2021-12-01"
+    },
+    "Hot100 Februari 2021.txt": {
+      "checksum": "19ea11ebe551654b363f69a70678cb648faf022d69a8b02dd27486b157d79922",
+      "datum": "2021-02-01"
+    },
+    "Hot100 Januari 2021.txt": {
+      "checksum": "7af15a828818e745c9f649ffa9e0a2f6296c2c46fb30e87b93c72d44649cf23e",
+      "datum": "2021-01-01"
+    },
+    "Hot100 Juli 2021.txt": {
+      "checksum": "2c10943d88254d546f529ada966ffce5e90bdfb12382e00b79c654cbcdf3c447",
+      "datum": "2021-07-01"
+    },
+    "Hot100 Juni 2021.txt": {
+      "checksum": "be58d2f251cfedf0ea31942e765d8216dd5b8ae74844df99cf9fa5289af786a2",
+      "datum": "2021-06-01"
+    },
+    "Hot100 Maart 2021.txt": {
+      "checksum": "06b847ab8ad274e0a0b266c0053c1b468734a968c2f26c7a6e3ade99f080d26a",
+      "datum": "2021-03-01"
+    },
+    "Hot100 Mei 2021.txt": {
+      "checksum": "8ea7e948ad289dc73d9df4084e4a35a6bf9cb1e0b54acc242b995a39e23e2080",
+      "datum": "2021-05-01"
+    },
+    "Hot100 November 2021.txt": {
+      "checksum": "edbf84d047ac6a83fde94bc75243d41afd82f11cefd372211791c3dcbd6817ac",
+      "datum": "2021-11-01"
+    },
+    "Hot100 Oktober 2021.txt": {
+      "checksum": "9722df0969d209b2af725fd72f426d63c660746c3a94593206fd5a6fee3e4e2f",
+      "datum": "2021-10-01"
+    },
+    "Norway Open April 2021.txt": {
+      "checksum": "64b6d242a9af3b572944d229639d4e1f17f0faf813c8ebab496380975d675da6",
+      "datum": "2021-04-01"
+    },
+    "Olympiade November 2021.txt": {
+      "checksum": "ca435b6dec402724f57f92fc0836b6be6885ff4296c81f7cc45488e89aee9afc",
+      "datum": "2021-11-01"
+    },
+    "Squizzed December 2021.txt": {
+      "checksum": "3a56f34a2ec558a49da86a7f42567112b2961f9089cd2ff99f36babcfec7368e",
+      "datum": "2021-12-01"
+    },
+    "Squizzed November 2021.txt": {
+      "checksum": "72b4ec12c491df34e074263c12000c03f716c82f79762e8cc974a0b9c2a5c54a",
+      "datum": "2021-11-01"
+    },
+    "Squizzed Oktober 2021.txt": {
+      "checksum": "4f4d8d2b1f4ff216efd184bfc357d4d7c96042defff0250561eb99afc71d4065",
+      "datum": "2021-10-01"
+    },
+    "Squizzed September 2021.txt": {
+      "checksum": "da8fe098ab9ba8956d31234dc25f94012e13d79ce73bcfb9087801f88f9089ca",
+      "datum": "2021-09-01"
+    },
+    "WQC Juli 2021.txt": {
+      "checksum": "a49d3119fe37449898dd9efe711d3e032753ed23aaa53a3664940a6493372dfd",
+      "datum": "2021-07-01"
+    },
+    "Austrian Open Oktober 2022.txt": {
+      "checksum": "69f5a50ff4f91879fe3bd2ec5789da4b0a6434c48cce068c7a67417eb3724d29",
+      "datum": "2022-10-01"
+    },
+    "Croatian Open November 2022.txt": {
+      "checksum": "f4f51c09434aa8a10145e4170720b4484e3b2b1a243d9d1314ccf2b24d04e652",
+      "datum": "2022-11-01"
+    },
+    "Hot100 April 2022.txt": {
+      "checksum": "a3027635a970e8394328fcfc5d4e95a0a53632c5406730d3f593876e738defc9",
+      "datum": "2022-04-01"
+    },
+    "Hot100 Augustus 2022.txt": {
+      "checksum": "de8b750b707708bb34d9c016a10e3671df2d446b08430ca912f92bcb1c6d945a",
+      "datum": "2022-08-01"
+    },
+    "Hot100 December 2022.txt": {
+      "checksum": "ada2c7dcd1cf6b6f9bda000f74ee77ff8f802a79fbb156b4860550a0f6bfe171",
+      "datum": "2022-12-01"
+    },
+    "Hot100 Februari 2022.txt": {
+      "checksum": "93c6ca2395e3cc8844e709eb38291a6d5d586b04893aa0f51ab80474e5c7ab11",
+      "datum": "2022-02-01"
+    },
+    "Hot100 Januari 2022.txt": {
+      "checksum": "3c91c61c9e91e23b824ff297b0b26b4c42d8c287910def74db48600871326892",
+      "datum": "2022-01-01"
+    },
+    "Hot100 Juli 2022.txt": {
+      "checksum": "9b6f329137f11764a622de0822b8732f5b44b0f636a4cd9ab073ab4739f732b7",
+      "datum": "2022-07-01"
+    },
+    "Hot100 Maart 2022.txt": {
+      "checksum": "3c60b008afcb65864da59c20ee2d9b1993859256023391c1b43fc28654a4887f",
+      "datum": "2022-03-01"
+    },
+    "Hot100 Mei 2022.txt": {
+      "checksum": "a787359b719a67430bcca189b3cd291d26c48d3c25fee778e99eb6b36bfb6c3e",
+      "datum": "2022-05-01"
+    },
+    "Hot100 November 2022.txt": {
+      "checksum": "5a60f36456c62069ec61dfc6f45c72ea29962cbcbb913809c31ada0f9cd6db80",
+      "datum": "2022-11-01"
+    },
+    "Hot100 Oktober 2022.txt": {
+      "checksum": "b5e9292da71525a380c76f82d59fd8e146d6d3907a8932d80616afa147a46a08",
+      "datum": "2022-10-01"
+    },
+    "Hot100 September 2022.txt": {
+      "checksum": "9589db123d1bbdcb46a31a91ae04ebbf1838093ff9d9401cbb5d6218f3d7639e",
+      "datum": "2022-09-01"
+    },
+    "IQC November 2022.txt": {
+      "checksum": "561b5b1b6be5f3ecea09f3dc2207c27e9a2e2b6f7fb72c584f30293ec8c5a0db",
+      "datum": "2022-11-01"
+    },
+    "Irish Open September 2022.txt": {
+      "checksum": "fcd87d998ded041624f1d08265c541bfe64a9b23f20d7b080e6abf51b246906d",
+      "datum": "2022-09-01"
+    },
+    "Norway Open Maart 2022.txt": {
+      "checksum": "a84d9f61c23cdd4606dd50145cd35635d81f6edd4e4abf05f1fd9c15265e0795",
+      "datum": "2022-03-01"
+    },
+    "Squizzed April 2022.txt": {
+      "checksum": "eda20fbec3a087ec10b3ac9add049b66e3aa120e192785448cbd03e80a44dfb5",
+      "datum": "2022-04-01"
+    },
+    "Squizzed Augustus 2022.txt": {
+      "checksum": "66ea8473e1e562ab5e9965fc0cbe33ff717cc425c0956c6dcb7c946e8eb7701a",
+      "datum": "2022-08-01"
+    },
+    "Squizzed December 2022.txt": {
+      "checksum": "4cd6bcf01d3c2959bb299cbaf4677621a11241c7960a6dbde6705e78cae81351",
+      "datum": "2022-12-01"
+    },
+    "Squizzed Februari 2022.txt": {
+      "checksum": "f91659f6958ce27511c021e4c7a523af2ada64e1b04e7af22baa2b005791a439",
+      "datum": "2022-02-01"
+    },
+    "Squizzed Januari 2022.txt": {
+      "checksum": "cad1e08e6220c61ac6e0c63dcca64a3db65978e86f67c870353bacfe2691e67f",
+      "datum": "2022-01-01"
+    },
+    "Squizzed Juli 2022.txt": {
+      "checksum": "99be0d1922cf3c5fb757803144f91e2d5fbcf4780a21f25cfe53f14dcb3cc924",
+      "datum": "2022-07-01"
+    },
+    "Squizzed Juni 2022.txt": {
+      "checksum": "4d28979bd0866c7e12975fee0c14bfa44698662fc0d9a8ad8e10dfaf0f28015f",
+      "datum": "2022-06-01"
+    },
+    "Squizzed Maart 2022.txt": {
+      "checksum": "905e79b07f0a58e1531163e967125307d35765e12cb0869626ff515d05157910",
+      "datum": "2022-03-01"
+    },
+    "Squizzed Mei 2022.txt": {
+      "checksum": "ea79ac43c62a8e20d05dab1d6bc0eb2195ba1b01840fb3f5ffdb5f3dddcd8a2e",
+      "datum": "2022-05-01"
+    },
+    "Squizzed November 2022.txt": {
+      "checksum": "d2bc95dac99d01d4a10105dff0f6ecc6f762bcba84b84c45ccfccd336b27bbe9",
+      "datum": "2022-11-01"
+    },
+    "Squizzed Oktober 2022.txt": {
+      "checksum": "7731554407629d252824a6c8e317de9298b05a8adb9c05fb04837bebbf706e27",
+      "datum": "2022-10-01"
+    },
+    "Squizzed September 2022.txt": {
+      "checksum": "068886f47eb6bcf54286b05b0558ce273adcbcf5f41809805d5a17ea94f9df7a",
+      "datum": "2022-09-01"
+    },
+    "Unlimited Augustus 2022.txt": {
+      "checksum": "352dfda607d1c027261f6de95b200f9493483d275632ffd6cd7e143a8b1161f8",
+      "datum": "2022-08-01"
+    },
+    "Unlimited December 2022.txt": {
+      "checksum": "418f6a00f9666cfda8b2581b3211544b5f58e2c54aab2004ea904e3fd80ac42d",
+      "datum": "2022-12-01"
+    },
+    "Unlimited November 2022.txt": {
+      "checksum": "7f082c991b2ecf072181c98df6fb8bc43393debf8d365a746bf72695beb86dd5",
+      "datum": "2022-11-01"
+    },
+    "Unlimited Oktober 2022.txt": {
+      "checksum": "9122d658b342a143565c7d2cd8bccf00910cd1e79620143cf7e6e4fc5df9ebe7",
+      "datum": "2022-10-01"
+    },
+    "Unlimited September 2022.txt": {
+      "checksum": "8ef1353c80f7bb1c281568cfa32059be641363259ad128808afc988c724d5870",
+      "datum": "2022-09-01"
+    },
+    "WQC Juni 2022.txt": {
+      "checksum": "8dde45e87668e0b6679a07aacd164abde1550216f2f165ebd45c2ef807339c0a",
+      "datum": "2022-06-01"
+    },
+    "Zadar Open Mei 2022.txt": {
+      "checksum": "80876e102643f38f83ca5700bd0f12e4aa1798369208b2826e983731cb5abec4",
+      "datum": "2022-05-01"
+    },
+    "Asian-Pacific Open November 2023.txt": {
+      "checksum": "79104e9e77ea2e1809c3f460f2d3701c2a4925266d9a58009656d8907aecbecf",
+      "datum": "2023-11-01"
+    },
+    "Austrian Open Oktober 2023.txt": {
+      "checksum": "716a8f0e2126f741f14366a384f4e324f25bfafc735ae35be76a504fc5791ae2",
+      "datum": "2023-10-01"
+    },
+    "Croatian Open November 2023.txt": {
+      "checksum": "af60601152e478b9501892dd56fdd59eac3bfbae4863e0f1cf97e1226ceca5ef",
+      "datum": "2023-11-01"
+    },
+    "Hot100 April 2023.txt": {
+      "checksum": "a58c1861f4ea89f30ace306978f19aa82ecdfcac7593a98d20827ce146c9fbbd",
+      "datum": "2023-04-01"
+    },
+    "Hot100 Augustus 2023.txt": {
+      "checksum": "1ccb11d5ee383fa6c547859df5fd64b09d76782dcb5a181028a9d76b10e6faf0",
+      "datum": "2023-08-01"
+    },
+    "Hot100 December 2023.txt": {
+      "checksum": "61559f5b7d44567a9e18c17d8284eee7b9252791cf90fe16d01e2e322dd9d3eb",
+      "datum": "2023-12-01"
+    },
+    "Hot100 Februari 2023.txt": {
+      "checksum": "d20a050be7aab4eb7efb1633f74b75d22a723a2827de296971b61aa928685f63",
+      "datum": "2023-02-01"
+    },
+    "Hot100 Januari 2023.txt": {
+      "checksum": "dca7e0773a346ce38c0fc0d0b026031e7dff8c9a1481e4cfbb7f6139f94aa20d",
+      "datum": "2023-01-01"
+    },
+    "Hot100 Juli 2023.txt": {
+      "checksum": "08ade1c3ca1f775ad7ea33d8b4aed5bae94ad2b92f5dfe2573a4be1c9185badb",
+      "datum": "2023-07-01"
+    },
+    "Hot100 Maart 2023.txt": {
+      "checksum": "5b660593289d0fa2b844b19392d70176ec65230b6555256d858d993c91092818",
+      "datum": "2023-03-01"
+    },
+    "Hot100 Mei 2023.txt": {
+      "checksum": "4a75193ae2a066a0bbdf2402c618de1d647083e4d7a036844715938e25fa7e9e",
+      "datum": "2023-05-01"
+    },
+    "Hot100 November 2023.txt": {
+      "checksum": "3db56c5877f27b28aed79e3c9d55c218c273e00df750769869e7f463c08ca178",
+      "datum": "2023-11-01"
+    },
+    "Hot100 Oktober 2023.txt": {
+      "checksum": "a4015c5fccd2276d72b3290cecd806f233ae656bdaaaa1c7f68518cc2fdc3851",
+      "datum": "2023-10-01"
+    },
+    "Hot100 September 2023.txt": {
+      "checksum": "b0fea5c18d349bf5fe5b0efcd2a13c3fc13a16374997461c2a2d735dd2d6d3ea",
+      "datum": "2023-09-01"
+    },
+    "Irish Open September 2023.txt": {
+      "checksum": "b367a8a3053f3c4c66a54f60a5f90ec6125dad199f69e6b54ac4693d8f30bee7",
+      "datum": "2023-09-01"
+    },
+    "Norway Open Maart 2023.txt": {
+      "checksum": "d4a14922a5d544f0595ff8e1ced4d49e81c2d444dfc8b171079924433a8fdd7f",
+      "datum": "2023-03-01"
+    },
+    "Serbian Open Februari 2023.txt": {
+      "checksum": "5d180001a021cbaa6e2dfb51f30232e70d8cf53c402115a1e1e1c909a73c8857",
+      "datum": "2023-02-01"
+    },
+    "Squizzed April 2023.txt": {
+      "checksum": "4e14ad891b2e8624e58a9f67f4109053fdc40b7831ee8d3a934c6e33c87acde5",
+      "datum": "2023-04-01"
+    },
+    "Squizzed Augustus 2023.txt": {
+      "checksum": "4f4d57c0baf4d4c9a362ca6b46f8cf20a650623481d67539820a29a34d359238",
+      "datum": "2023-08-01"
+    },
+    "Squizzed December 2023.txt": {
+      "checksum": "f64c4327e6c28b8a5dfb8758ae75b14c768b7e92652251da6e78f486ff337a79",
+      "datum": "2023-12-01"
+    },
+    "Squizzed Februari 2023.txt": {
+      "checksum": "94407e54b0f17d6ab5a7b6d115ede23e1c6f3dbed8b0d0c894e529d8cde8e56a",
+      "datum": "2023-02-01"
+    },
+    "Squizzed Januari 2023.txt": {
+      "checksum": "026e080af6316025dc2ae2829771541a494354cdc5af1a88d29463c991ac8198",
+      "datum": "2023-01-01"
+    },
+    "Squizzed Juli 2023.txt": {
+      "checksum": "439d68c8a293a84aba4f20ac58c75ca93a20b4038eba7fdc59c82181087c9b7e",
+      "datum": "2023-07-01"
+    },
+    "Squizzed Juni 2023.txt": {
+      "checksum": "0416a517c3b4a5a55383a91ef3639a02cfaf0d2b972a963f1937d6d9513c0600",
+      "datum": "2023-06-01"
+    },
+    "Squizzed Maart 2023.txt": {
+      "checksum": "269d5e1ed87786010a49d9ed46e0492e164bff7082073d451f0ed82fa2c66f37",
+      "datum": "2023-03-01"
+    },
+    "Squizzed Mei 2023.txt": {
+      "checksum": "a7c5e3a29f23b64cda3e9b932f0156ec027ab5ff94c22f63b1066363b9fa6fa0",
+      "datum": "2023-05-01"
+    },
+    "Squizzed November 2023.txt": {
+      "checksum": "2b9545b17ba106fc85f75ef4b1a5c64bbe49fe55ba9faa833bee6006aa518cda",
+      "datum": "2023-11-01"
+    },
+    "Squizzed Oktober 2023.txt": {
+      "checksum": "d47be38764bc53d66d404dd5fb72d6ca20c83f5406b5e7b46a5b47971cecb736",
+      "datum": "2023-10-01"
+    },
+    "Squizzed September 2023.txt": {
+      "checksum": "2f9da7b388a0fcd2f9feac2ddee8109db5cc3835228c7f2599215ec51a81f6c4",
+      "datum": "2023-09-01"
+    },
+    "Unlimited April 2023.txt": {
+      "checksum": "dc7ebe501b01897475fbab738d62379f967229b6ee9bb369f55df4da899f2ab9",
+      "datum": "2023-04-01"
+    },
+    "Unlimited Augustus 2023.txt": {
+      "checksum": "c8efa31cf2a0aff713038d9e8cf7123d0c5b06fe350a7d710b3517cc1581b5ed",
+      "datum": "2023-08-01"
+    },
+    "Unlimited December 2023.txt": {
+      "checksum": "6fb90eab387815800116a52debc9a73787ce3b8daafec9abda96a03ea9a6b78c",
+      "datum": "2023-12-01"
+    },
+    "Unlimited Februari 2023.txt": {
+      "checksum": "eb8e43d41896bb6d4d67dc9afc3f6a02b75eb2e8994427d1c4adfb61fb7ce4ea",
+      "datum": "2023-02-01"
+    },
+    "Unlimited Januari 2023.txt": {
+      "checksum": "ef135c17d6d91b9652b0166c0d2e1ed405e011b923f55efb59139fbad5e9fa08",
+      "datum": "2023-01-01"
+    },
+    "Unlimited Juli 2023.txt": {
+      "checksum": "f90633ef68a7d74a8ef0850925d7bbbf73d68b129a5dbd841cc0d2f2dc45b202",
+      "datum": "2023-07-01"
+    },
+    "Unlimited Juni 2023.txt": {
+      "checksum": "53e76f756d9aa4ee04ec1d5c37649666ff7593a71848700d25029729565dc96b",
+      "datum": "2023-06-01"
+    },
+    "Unlimited Maart 2023.txt": {
+      "checksum": "6188cd2c1bdba88bec3a1dc871d78766684ce1a89d6b82496764815e8f07d76d",
+      "datum": "2023-03-01"
+    },
+    "Unlimited Mei 2023.txt": {
+      "checksum": "41d8522899705b4d3366fac40cef4863c22010584637b5ecaca328baaef4b28b",
+      "datum": "2023-05-01"
+    },
+    "Unlimited November 2023.txt": {
+      "checksum": "6577758f9ef9e67b1e9b9c476c974c1a908e9a23c02beff336c4991640e1e394",
+      "datum": "2023-11-01"
+    },
+    "Unlimited Oktober 2023.txt": {
+      "checksum": "6e28498e51610d9640cad520a218dd6872e0e74efd67cc1544b6a00be2b8c3ba",
+      "datum": "2023-10-01"
+    },
+    "Unlimited September 2023.txt": {
+      "checksum": "086e09c86a4229592678e84350f663a73ee0a5043329e03f14702fcafe81f20b",
+      "datum": "2023-09-01"
+    },
+    "WQC Juni 2023.txt": {
+      "checksum": "c06822d2f3d1fcb2b9385220b630c4ce2d96c9c24bc3826147459334b30c9401",
+      "datum": "2023-06-01"
+    },
+    "Zadar Open Mei 2023.txt": {
+      "checksum": "38b885a6fce4eda734f57482408c04e1aeea95d020a762ce357c39e456db7e7e",
+      "datum": "2023-05-01"
+    },
+    "Hot100 April 2024.txt": {
+      "checksum": "6b93c31aaa1c84cecf38e77ee73412c39e53d8a642791bfe0f4826774211211b",
+      "datum": "2024-04-01"
+    },
+    "Hot100 Augustus 2024.txt": {
+      "checksum": "896753663c8c7a64df533554f2f12da20aac98e818f633e48fa3a8d81621756e",
+      "datum": "2024-08-01"
+    },
+    "Hot100 December 2024.txt": {
+      "checksum": "dcf746fdc0b8741d805928b1dd9993b8aa286bb38217a842a7be6695a7c5d260",
+      "datum": "2024-12-01"
+    },
+    "Hot100 Februari 2024.txt": {
+      "checksum": "9df02efa954829893fc8d854319ff70bc9e3005f6dc26932094595382a821783",
+      "datum": "2024-02-01"
+    },
+    "Hot100 Januari 2024.txt": {
+      "checksum": "63bfbe247d2f97d1fee3a4e11dd4bd6a8f87b217719082c15c345217bf3a0e15",
+      "datum": "2024-01-01"
+    },
+    "Hot100 Juli 2024.txt": {
+      "checksum": "03aba1bd3d583d61001aeb8dcb411721130e7d384380c32e926e4b3c7129c031",
+      "datum": "2024-07-01"
+    },
+    "Hot100 Maart 2024.txt": {
+      "checksum": "1c3a5234675cd37a4d0ae8f995ca6c6b5d156a16bc9e10d7adc736b2b6d35a1f",
+      "datum": "2024-03-01"
+    },
+    "Hot100 Mei 2024.txt": {
+      "checksum": "6801117dd7c953fbaceef192a8b61da9331473e02b261df90cc51c9475be6b24",
+      "datum": "2024-05-01"
+    },
+    "Hot100 November 2024.txt": {
+      "checksum": "f0b0c184a6f6da0246700e465445ef54466f196a89172b860728592d1258efac",
+      "datum": "2024-11-01"
+    },
+    "Hot100 Oktober 2024.txt": {
+      "checksum": "82540b32e76462e32fef3906a8f8e753e0f5a18a0dfaa4b6234ea6e9ce8ca233",
+      "datum": "2024-10-01"
+    },
+    "Hot100 September 2024.txt": {
+      "checksum": "5b133490eeac81e09e67720e0219312a2cd32e46e34da4fa6bde13637ecea1f2",
+      "datum": "2024-09-01"
+    },
+    "Olympiade November 2024.txt": {
+      "checksum": "faafd291e3867b8d56c887a9b8933001bfa4c9623c221c51546ea91d799742b0",
+      "datum": "2024-11-01"
+    },
+    "Asian-Pacific Open November 2024.txt": {
+      "checksum": "db9f98a9d646e9219cd2386c885ef1ed45f9d81891591b381a5ae5ea71abe594",
+      "datum": "2024-11-01"
+    },
+    "Australian Open 2024.txt": {
+      "checksum": "6d6b1d86c773339b3e1662d8c67e6a0fd4d07b2996852e3c8f6d57c4d9894d87",
+      "datum": "2024-01-01"
+    },
+    "Austrian Open December 2024.txt": {
+      "checksum": "4106988f0bf29c74426a1d1012f41ef61dfa9e01373a22f6ef02c3375d96928b",
+      "datum": "2024-12-01"
+    },
+    "Croatian Open November 2024.txt": {
+      "checksum": "613a49383d626f4a5d2d0bcf339dc0ece737c80b205ff595688fa8191cefd62d",
+      "datum": "2024-11-01"
+    },
+    "Irish Open September 2024.txt": {
+      "checksum": "b0647daa49091a1b3f8bf9208b5e446d0a621df66079501129ffeceaef622d59",
+      "datum": "2024-09-01"
+    },
+    "Macedonian Open September 2024.txt": {
+      "checksum": "351bf32e942492d71a1226ace0d77441df9bd3761e95ef000d3d00aa52b050f7",
+      "datum": "2024-09-01"
+    },
+    "Norway Open Maart 2024.txt": {
+      "checksum": "a818d7a52f520af19d72b453ac0186dcdcd36c286aef5681a05b18c78ff2a4eb",
+      "datum": "2024-03-01"
+    },
+    "Serbian Open Februari 2024.txt": {
+      "checksum": "28acdd30b496613d0aca0a9fd56accdeac93d3093ba8534019cb68a52866cced",
+      "datum": "2024-02-01"
+    },
+    "Zadar Open Mei 2024.txt": {
+      "checksum": "5a927b244ab33b35292849e7d6a6570a4f6671b58b760540707ab492136cc7ef",
+      "datum": "2024-05-01"
+    },
+    "Squizzed April 2024.txt": {
+      "checksum": "98fed675bdeddc52a2d82789ac9dc814607f8a467ca192c5795ccce66bf37627",
+      "datum": "2024-04-01"
+    },
+    "Squizzed Augustus 2024.txt": {
+      "checksum": "f7d66f9a49c464db38f07b60c47f88dfeb8755e20fa5dd6cf35cf1feed67c841",
+      "datum": "2024-08-01"
+    },
+    "Squizzed December 2024.txt": {
+      "checksum": "9205574e318155b28f7df5242305d52336e86218ba070ed1553a54b29761a4e3",
+      "datum": "2024-12-01"
+    },
+    "Squizzed Februari 2024.txt": {
+      "checksum": "7e537f072b9242085aa4dafceaf55e787fd7ea7f61ca2a62c54e0d02fc7066f4",
+      "datum": "2024-02-01"
+    },
+    "Squizzed Januari 2024.txt": {
+      "checksum": "238de033eb99dede51866999c572e225837f7b6f5419073f1546ddd70d1ba8ed",
+      "datum": "2024-01-01"
+    },
+    "Squizzed Juli 2024.txt": {
+      "checksum": "5b40d76154f7f746671d1cb233ed4ffad60621ee885fd404f6c0baad83bc77bd",
+      "datum": "2024-07-01"
+    },
+    "Squizzed Juni 2024.txt": {
+      "checksum": "d509883c07e8aecc868ab2cce54c46c1a579145fd3c4e4b42ef8955d7d58b327",
+      "datum": "2024-06-01"
+    },
+    "Squizzed Maart 2024.txt": {
+      "checksum": "fbe80515239c05689c4ddbf9360e6051e344863ec90a8fbd9bd69d75ecc6010d",
+      "datum": "2024-03-01"
+    },
+    "Squizzed Mei 2024.txt": {
+      "checksum": "5743e2c0ea1a522a4eeed4c5cad6e1a4dc017048c3beec2997e952db46be83fd",
+      "datum": "2024-05-01"
+    },
+    "Squizzed November 2024.txt": {
+      "checksum": "77f80c852b9653edbc471eb2008e929b47ff0565bc7db9915aa9ce5e8f352be7",
+      "datum": "2024-11-01"
+    },
+    "Squizzed Oktober 2024.txt": {
+      "checksum": "7ae5439835eca2eab868bd37a16c95a992c7bef38effd9a99df38c63926462f5",
+      "datum": "2024-10-01"
+    },
+    "Squizzed September 2024.txt": {
+      "checksum": "2759f0c7c1b8589798de2d4a5023f676f6e141d1a6ad1b083c81cbae3da76ea8",
+      "datum": "2024-09-01"
+    },
+    "Unlimited April 2024.txt": {
+      "checksum": "8ffd399c65f73a9bf3a112254f60620efa7e1574ccb46ac2b632ca7480075288",
+      "datum": "2024-04-01"
+    },
+    "Unlimited Augustus 2024.txt": {
+      "checksum": "19c3131487e2ceea3b15ea9b95b35cf65828ca7377569f70e1c59b02040a4bc2",
+      "datum": "2024-08-01"
+    },
+    "Unlimited December 2024.txt": {
+      "checksum": "34b624e996fb4b63c90e7ab5348da2cbd0f5fcba905eddaf4f1fb46cbec07467",
+      "datum": "2024-12-01"
+    },
+    "Unlimited Februari 2024.txt": {
+      "checksum": "eb388e0fa05ce18c7cf8a47b4cd2e083c0427457b01ec8549af9dee62f1db460",
+      "datum": "2024-02-01"
+    },
+    "Unlimited Januari 2024.txt": {
+      "checksum": "bd0fa556ac0612edc3c2b9130d7a215e90ccd7e9a4ae4206886dadc148db8591",
+      "datum": "2024-01-01"
+    },
+    "Unlimited Juli 2024.txt": {
+      "checksum": "2738c82b097605d82a46d7cafe61531666a86a9eef55b9df3a55025bdee9045d",
+      "datum": "2024-07-01"
+    },
+    "Unlimited Juni 2024.txt": {
+      "checksum": "27aeca0d7cca074ce408d8b847d40b0c1fc69c087f2300b6f2fa51f9d1ccadcf",
+      "datum": "2024-06-01"
+    },
+    "Unlimited Maart 2024.txt": {
+      "checksum": "52eadb4df9cc0f929dc26bcf8f3f609f0eba5226562a3921ddb585ca2d1ea001",
+      "datum": "2024-03-01"
+    },
+    "Unlimited Mei 2024.txt": {
+      "checksum": "69f4054e9a71e93a6e7a34cc5a2d908c45a423c1cbae61a96403bdf47f4db448",
+      "datum": "2024-05-01"
+    },
+    "Unlimited November 2024.txt": {
+      "checksum": "e6f4542cc48c3b55adc343a2efda315dbd2383d5ff744e509d5ef672e98cf042",
+      "datum": "2024-11-01"
+    },
+    "Unlimited Oktober 2024.txt": {
+      "checksum": "baa816c8609c9b3b5c5dce47677f07a3ae1d5e31357a523c4a92000f86d69835",
+      "datum": "2024-10-01"
+    },
+    "Unlimited September 2024.txt": {
+      "checksum": "c4ee119e61a3263c26d5bbe3ba87a5efad71b8457bf85ee98550bb2abfedd789",
+      "datum": "2024-09-01"
+    },
+    "WQC Juni 2024.txt": {
+      "checksum": "3d3eaea5ec9dccc00f723deaff51c66019fa72b49aa9ed2c075a694f26c20a9b",
+      "datum": "2024-06-01"
+    },
+    "Hot100 April 2025.txt": {
+      "checksum": "5610580562f3a8f47d077801c461ec43c60bdd98104b0e653d7be16a7c0917fe",
+      "datum": "2025-04-01"
+    },
+    "Hot100 Augustus 2025.txt": {
+      "checksum": "8318289d800ed878ed5b4ab78ed26b6fd7c0d0d997ca88262c1173ada8e15dac",
+      "datum": "2025-08-01"
+    },
+    "Hot100 December 2025.txt": {
+      "checksum": "1f2c4b77e3e939d5a7bc4cf90c1878e3a520439b3aec2f28532809111add1b93",
+      "datum": "2025-12-01"
+    },
+    "Hot100 Februari 2025.txt": {
+      "checksum": "f9634603278e9c9fe32be53738c742bd8f36a4198cbe14c6105b01d003a68b6b",
+      "datum": "2025-02-01"
+    },
+    "Hot100 Januari 2025.txt": {
+      "checksum": "2bb125e93266626d67560e36bc883eb4283185f697541eb357dc6ee738b20864",
+      "datum": "2025-01-01"
+    },
+    "Hot100 Juli 2025.txt": {
+      "checksum": "3c4af0f2dde0652325ef6bc0667f473220dd1e21c5b699ae3e22ee84dfa47e3d",
+      "datum": "2025-07-01"
+    },
+    "Hot100 Maart 2025.txt": {
+      "checksum": "854c2440923da4c51403b79abeb58b840111054e33a1a37fcb7585adcffbe536",
+      "datum": "2025-03-01"
+    },
+    "Hot100 Mei 2025.txt": {
+      "checksum": "d69d35681bee2a807cc2531b8db451b8914d4d9016958bf5220c1d24b3a295d3",
+      "datum": "2025-05-01"
+    },
+    "Hot100 November 2025.txt": {
+      "checksum": "580e1590110ccde951eb7851b161fabde78ec098b2c0b3449995c2a650a12251",
+      "datum": "2025-11-01"
+    },
+    "Hot100 Oktober 2025.txt": {
+      "checksum": "b18c516f21c9e93d6dfb6ca68fbdd74161c84b8533fc96edffe7fa8370ae8413",
+      "datum": "2025-10-01"
+    },
+    "Hot100 September 2025.txt": {
+      "checksum": "e2a0d20b4852775fbfd9f13ae7fbf9fe7446068185e8998bb0798ed79e0be396",
+      "datum": "2025-09-01"
+    },
+    "IQC November 2025.txt": {
+      "checksum": "ec1684d90199e7c64180a94eb88ed062b5b22b31e6322683beac09c11cbbc183",
+      "datum": "2025-11-01"
+    },
+    "Australian Open November 2025.txt": {
+      "checksum": "cc95fe1f00866c49190fd6b43131b110c251244d38ad01ed8e290f90f6b13d20",
+      "datum": "2025-11-01"
+    },
+    "Austrian Open December 2025.txt": {
+      "checksum": "e1302c5cf57dd6839c88aa7917ddfec9bb736fd2d8f4ad546bf902c1a7f47746",
+      "datum": "2025-12-01"
+    },
+    "Croatian Open November 2025.txt": {
+      "checksum": "1fbf5e1c25b13a47523c7f96b6e060e8eb121d1d2495c85b20d53d68000da6c1",
+      "datum": "2025-11-01"
+    },
+    "Irish Open Oktober 2025.txt": {
+      "checksum": "4a0c11b346b7a435b04d46b8f3fe853c7d68f9d11877951cf42edcadc09aef52",
+      "datum": "2025-10-01"
+    },
+    "MMM9 Open Oktober 2025.txt": {
+      "checksum": "838bdec1842ff3ec93c320fc041703f7830f8d618bb1b00dbbdfbd549b869f49",
+      "datum": "2025-10-01"
+    },
+    "Macedonian Open September 2025.txt": {
+      "checksum": "ed5ea94b99a84bdd3ffc0b38d5a82421b1d9513aab807b31b0bfa1fda21d4136",
+      "datum": "2025-09-01"
+    },
+    "Norway Open Mei 2025.txt": {
+      "checksum": "e83a96e8bcfa4f0da8b3b68e5a2ca3d2e0805123efe87bfe759d5d20b440aeb4",
+      "datum": "2025-05-01"
+    },
+    "Serbian Open Februari 2025.txt": {
+      "checksum": "926c4e25a107005ea252523fe5c74832b8fdfd01b80aa9c9df16621205c29f07",
+      "datum": "2025-02-01"
+    },
+    "Swíss Open September 2025.txt": {
+      "checksum": "fa256f4894af3fd9da588609d468a001499eb359db148f33cc7799a42214c131",
+      "datum": "2025-09-01"
+    },
+    "Zadar Open Mei 2025.txt": {
+      "checksum": "5faef05bb876baa71d427c03450af472c040f85619e75267df955a0c3608c199",
+      "datum": "2025-05-01"
+    },
+    "Quizdiary December 2025.txt": {
+      "checksum": "f9c9df907d922c2c7ddcf37a25aefe7a256e45c16fcc609fc2bfe38fee7c615d",
+      "datum": "2025-12-01"
+    },
+    "Quizdiary November 2025.txt": {
+      "checksum": "eeefe6e13501c43f9c4eab7e97e5952a9d58b892fc5af23bd1691d646dd99415",
+      "datum": "2025-11-01"
+    },
+    "Squizzed April 2025.txt": {
+      "checksum": "adff951dfc7752a526f3c9923512edbcbccd73d8e1d7f3463309b7f9f5c4b110",
+      "datum": "2025-04-01"
+    },
+    "Squizzed Augustus 2025.txt": {
+      "checksum": "8bec53290df552198ac3c7b52346d870c934780ad0a258886029f17e018cbd4e",
+      "datum": "2025-08-01"
+    },
+    "Squizzed December 2025.txt": {
+      "checksum": "ea1e968c5e25d5869744a0ec50c0d234970ad1719f7459ed857d55f518821200",
+      "datum": "2025-12-01"
+    },
+    "Squizzed Februari 2025.txt": {
+      "checksum": "6931c1ab6dc24e01ea389e1ea853ba55facfe3f44b8459b8dec2fdebd10fb62e",
+      "datum": "2025-02-01"
+    },
+    "Squizzed Januari 2025.txt": {
+      "checksum": "a7bf73570fff921bca1dd7dff3827f69296c48525fd2f28de36144e2d81d89bb",
+      "datum": "2025-01-01"
+    },
+    "Squizzed Juli 2025.txt": {
+      "checksum": "dc0666b8cfa78d4099deff962f391596a694f49ad28288b289bdf761dc93e6e6",
+      "datum": "2025-07-01"
+    },
+    "Squizzed Juni 2025.txt": {
+      "checksum": "d8dc6828562ce097727b0ebc985b2ae62b5672a8369e1dc37c7084415a2b199c",
+      "datum": "2025-06-01"
+    },
+    "Squizzed Maart 2025.txt": {
+      "checksum": "9a2ea3904b41c7d32a4b9ca5f93e417edbe0493f7b40a82dd8c0b87ac6a10b8d",
+      "datum": "2025-03-01"
+    },
+    "Squizzed Mei 2025.txt": {
+      "checksum": "23a762639383d55ffc66fc8da72526c89c3da10312517e43e81524e5233cbbe4",
+      "datum": "2025-05-01"
+    },
+    "Squizzed November 2025.txt": {
+      "checksum": "cf8ae2ac229f4777ff567278d6ed6406ee3329060a461a40249fee1f95b3f405",
+      "datum": "2025-11-01"
+    },
+    "Squizzed Oktober 2025.txt": {
+      "checksum": "82dd53e0fba61b0acfdd0598d40f606ae27b55db608d45ebbd6e9712646eb619",
+      "datum": "2025-10-01"
+    },
+    "Squizzed September 2025.txt": {
+      "checksum": "ae0ebd8f4fad67adf35611e32b8630643edf19a60fa4759e85db44e4cce5942b",
+      "datum": "2025-09-01"
+    },
+    "Unlimited April 2025.txt": {
+      "checksum": "4cbb73bd56ddd3b3716acdc2f0b50bfe7a3c5ad6dbb8da255cbd9d9687ac8dfb",
+      "datum": "2025-04-01"
+    },
+    "Unlimited Augustus 2025.txt": {
+      "checksum": "e0122a689d1656455502726e59bdb69861e17ac2114eb4fd1eb039f6d4118c91",
+      "datum": "2025-08-01"
+    },
+    "Unlimited December 2025.txt": {
+      "checksum": "4e65d88a7197ed5005fcc68da04bf504a390939342130137b4c78e6acada59b0",
+      "datum": "2025-12-01"
+    },
+    "Unlimited Februari 2025.txt": {
+      "checksum": "37b14f914bb6e5046c03bc9138c89d0b60b6fa549f8409c56c3879232acdee15",
+      "datum": "2025-02-01"
+    },
+    "Unlimited Januari 2025.txt": {
+      "checksum": "d2c73f966d0b62cad7ce4f4e9d2e82fbb054099c70596124b5c1fb75c1af528f",
+      "datum": "2025-01-01"
+    },
+    "Unlimited Juli 2025.txt": {
+      "checksum": "316481db91bbcf59332c5b0894c727c1137e77b06f82273f64921aa8ed772c32",
+      "datum": "2025-07-01"
+    },
+    "Unlimited Juni 2025.txt": {
+      "checksum": "09e53f49d79d1bb80814417e5c6bb483285074ea0c480f190014d0efd4829604",
+      "datum": "2025-06-01"
+    },
+    "Unlimited Maart 2025.txt": {
+      "checksum": "fd9cbecf23ef5d20db0bcb0435bc563ad525d252d105313f4dc8f5acf7386629",
+      "datum": "2025-03-01"
+    },
+    "Unlimited Mei 2025.txt": {
+      "checksum": "c839729c5d2dbdb7727e8ab6b0575504826920efb464568a08beacef72be57d1",
+      "datum": "2025-05-01"
+    },
+    "Unlimited November 2025.txt": {
+      "checksum": "1e6d6765bdd913bb50768128acb1637a36210d40ebd7c9aa859e68cd4393d494",
+      "datum": "2025-11-01"
+    },
+    "Unlimited Oktober 2025.txt": {
+      "checksum": "afb10ef0defe2323663de1816507ba66c958679c13d15df1587c2446e4a35507",
+      "datum": "2025-10-01"
+    },
+    "Unlimited September 2025.txt": {
+      "checksum": "58388a292e00ee1d95c25c92ec83812288ada44c28e1236c31289abe374b5b19",
+      "datum": "2025-09-01"
+    },
+    "WQC Juni 2025.txt": {
+      "checksum": "798f955d9e33a50867a4171b0cbca3f551bebc5698432e68174b8fede697b86f",
+      "datum": "2025-06-01"
+    },
+    "Hot100 April 2026.txt": {
+      "checksum": "20d051b2a18d1550fed1f2ba63c9a3b2c6d090891e016d3292790cc237bda994",
+      "datum": "2026-04-01"
+    },
+    "Hot100 Februari 2026.txt": {
+      "checksum": "687b8ec16d3a693c174f645e4bee6759b0d3afbd2a8e581d53ce46ca27f1550b",
+      "datum": "2026-02-01"
+    },
+    "Hot100 Januari 2026.txt": {
+      "checksum": "6ade746928dee08ef5fd5de23e67010c586dfe11176cc3a499d7a7c0a6894752",
+      "datum": "2026-01-01"
+    },
+    "Hot100 Maart 2026.txt": {
+      "checksum": "add563b71e9837cc514b06cc40cf3e337399f43781d3aa7a0b635b1c5eaf7b18",
+      "datum": "2026-03-01"
+    },
+    "German Open Februari 2026.txt": {
+      "checksum": "44ac5f8a0dd8b10114a20e7b3b4fe2faec8c53d99c2fd7c017e48e20c95ab41b",
+      "datum": "2026-02-01"
+    },
+    "Norway Open Mei 2026.txt": {
+      "checksum": "b7b8168b23eca9bd87e1c329ad34eb49b50d75825a35fb6abdbae75c5e4f6350",
+      "datum": "2026-05-01"
+    },
+    "Zadar Open Mei 2026.txt": {
+      "checksum": "be2935236447ba868052b42565d6d708f9ecb82456523eebfd4315ea80a75d6b",
+      "datum": "2026-05-01"
+    },
+    "Quizdiary April 2026.txt": {
+      "checksum": "b58aa7b6fbc09a077d47c17640528b5e27ea86e9d230ce06e3862a7830322756",
+      "datum": "2026-04-01"
+    },
+    "Quizdiary Februari 2026 nr. 2.txt": {
+      "checksum": "59e9bc4649fe7c262f55f461d95a34d3b93517ddcc234460421329a506f174b5",
+      "datum": "2026-02-08"
+    },
+    "Quizdiary Februari 2026.txt": {
+      "checksum": "2c9a3f9d0dfc1bde1c2b875ddb1c89e93ff0316f971f14b930ca6bd730edaf15",
+      "datum": "2026-02-01"
+    },
+    "Quizdiary Januari 2026.txt": {
+      "checksum": "17b9181c7efeffe9cd3ff22696d0bfb67a0239623291a03d8a4ac6b4ab4935a7",
+      "datum": "2026-01-01"
+    },
+    "Quizdiary Juni 2026.txt": {
+      "checksum": "1df5905d6a4080cac264fe4e997b321fb63efd967cdb6fffbad9236ff398f9fa",
+      "datum": "2026-06-01"
+    },
+    "Quizdiary Maart 2026.txt": {
+      "checksum": "dfff3561e90a38ffe408026f9e2bd98fee8fcb41d9ff69f81446af203f967d33",
+      "datum": "2026-03-01"
+    },
+    "Quizdiary Mei 2026.txt": {
+      "checksum": "b5260360a3aed8392cbc0a5364aad5399646e698faafc2abdc0ef2e5165c235c",
+      "datum": "2026-05-01"
+    },
+    "Squizzed April 2026.txt": {
+      "checksum": "9a060104b4e8b047f9ea74c59c2f815713d77dc943f18308f8549867052922bb",
+      "datum": "2026-04-01"
+    },
+    "Squizzed Februari 2026.txt": {
+      "checksum": "8d71037f72e1ce29dfded6b5300f39e8c9f183b1a7a0031b6432f983437604af",
+      "datum": "2026-02-01"
+    },
+    "Squizzed Januari 2026.txt": {
+      "checksum": "20a19572ef780df766d96bd1e427dacc3bfd61d2ae9a470108177f12361eedad",
+      "datum": "2026-01-01"
+    },
+    "Squizzed Maart 2026.txt": {
+      "checksum": "1c99e670d55ea145cf0cac401f548e3ae7cb9c636084eb937339a8596249c38f",
+      "datum": "2026-03-01"
+    },
+    "Squizzed Mei 2026.txt": {
+      "checksum": "0ba5a824b67456701cc3e6672b420ef4f8fd32dad6b371600cc30e2079b0eb70",
+      "datum": "2026-05-01"
+    },
+    "Unlimited April 2026.txt": {
+      "checksum": "79b1b36437bd50db706f3e5e87875a74bd00dadfdd017933437c21773789b3e5",
+      "datum": "2026-04-01"
+    },
+    "Unlimited Februari 2026.txt": {
+      "checksum": "c37aa8ffc6b0cdf41fcb41421f2fce5dc41b8b80ad59ec210b7c6e2573b4dc0a",
+      "datum": "2026-02-01"
+    },
+    "Unlimited Januari 2026.txt": {
+      "checksum": "d7937377380732371e49e46b82f162dedae11d51a469ae3c313b9f03daac8822",
+      "datum": "2026-01-01"
+    },
+    "Unlimited Maart 2026.txt": {
+      "checksum": "237d329f15941bb9c6196bee7e7b954d571ef7ad60aa04fde73b30cf25187e19",
+      "datum": "2026-03-01"
+    },
+    "Unlimited Mei 2026.txt": {
+      "checksum": "a82e85be782f6e169cea587e4dbc5147acf4ab5d24c5c96c5171a6b3c6454811",
+      "datum": "2026-05-01"
+    },
+    "WQC Juni 2026.txt": {
+      "checksum": "9a325b00e1ebb92c94584809fc955e648bcd66bf5eae0c159219ee3b4c00af03",
+      "datum": "2026-06-01"
+    }
+  }
+}
